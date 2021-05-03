@@ -1,0 +1,27 @@
+{
+  "name": "swapi-get",
+  "version": "0.2.0",
+  "description": "A helper library for native swapi.tech requests",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "keywords": [
+    "swapi",
+    "api",
+    "star-wars-api",
+    "helper"
+  ],
+  "author": "Ryan Curtis <ryan.curtis88@gmail.com> (https://github.com/semperry)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/semperry/swapi-get.git"
+	},
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "standard-version": "^9.2.0"
+  }
+}
