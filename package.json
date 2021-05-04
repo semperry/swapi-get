@@ -1,6 +1,6 @@
 {
   "name": "swapi-get",
-  "version": "0.2.1",
+  "version": "0.2.0",
   "description": "A helper library for native swapi.tech requests",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "standard-version": "^9.2.0"
